@@ -16,7 +16,6 @@ We'll dive into several basic HTML concepts, including:
 * Creating links so users can contact you
 
 ## Live Demo
-Simply click on this link:- https://dipak-kumawat.github.io/Trading-app/
 
 ## Installation
 
